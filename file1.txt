@@ -1,3 +1,7 @@
 hello 1
 Hello 2
+<<<<<<< HEAD
 hello remote
+=======
+hello local
+>>>>>>> 7cf88fb (fb1 changes)
